@@ -1,0 +1,88 @@
+.container-1{
+    border: 1px solid black;
+    width: 100%;
+    margin: auto;
+}
+.buttons-container{
+    border: 1px solid black;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+button{
+    margin-right: 50px;
+    padding: 15px 32px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color:lightsalmon;
+}
+
+#reset{
+    background-color: #f0001c;
+}
+
+h1{
+    text-align: center;
+    width: 100%;
+    border: 1px black solid;
+    margin: auto;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 300%;   
+}
+img{
+    width:max-content;
+    height: 200px;
+    align-content: center;
+    padding: 10px;
+    margin: 10px;
+    
+}
+img:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+#flex-box{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+/*results.html styling*/
+.container-2{
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+table{
+    border: 1px solid black;
+    font-size: 40px;
+    width: 100%;
+}
+th{
+    border: 1px solid black;
+}
+
+
+.table-container{
+    border: 1px solid black;
+    width: 100%;
+    
+    margin-top: 16px;
+}
+
+#header-part h1{
+    font-size: 65px; 
+    border: 5px dotted black;   
+}
+
+button{
+margin-left:100px ;
+}
+
+#header-part{
+    display: flex;
+}
+
+
